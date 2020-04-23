@@ -52,7 +52,9 @@ h1 {
   flex-wrap: wrap;
   flex-direction: row;
   display: flex;
-  width:500px;
+  width: 500px;
+  left:50%;
+  margin-left: -250px;
   justify-content: space-between;
   text-align: center;
 }
